@@ -8,9 +8,9 @@ Lojas com poucas dezenas de entregas por dia costumam organizar as paradas manua
 
 ## Solução
 
-O RotaCerta organiza as entregas do dia e sugere uma sequência de paradas. O lojista informa os endereços e, quando necessário, as janelas de entrega e os dados do veículo. A rota pode ser compartilhada com o entregador, que abre as paradas em seu aplicativo de navegação. Ao final, registra entregas concluídas e pendências.
+O JAS - Easy Path organiza as entregas do dia e sugere uma sequência de paradas. O lojista informa os endereços e, quando necessário, as janelas de entrega e os dados do veículo. A rota pode ser compartilhada com o entregador, que abre as paradas em seu aplicativo de navegação. Ao final, registra entregas concluídas e pendências.
 
-**Exemplo:** uma pizzaria informa 15 pedidos e seus endereços. O RotaCerta sugere a ordem das paradas; o entregador abre a rota no Google Maps ou no Waze e registra os pedidos entregues ou pendentes.
+**Exemplo:** uma pizzaria informa 15 pedidos e seus endereços. O JAS - Easy Path sugere a ordem das paradas; o entregador abre a rota no Google Maps ou no Waze e registra os pedidos entregues ou pendentes.
 
 ## Escopo inicial
 
@@ -21,4 +21,4 @@ O RotaCerta organiza as entregas do dia e sugere uma sequência de paradas. O lo
 
 ## Como abrir
 
-Este repositório ainda não contém uma versão funcional do RotaCerta. O arquivo `index.html` é uma apresentação interna do Hack Brasil, não a aplicação de roteirização. Para visualizar essa apresentação, abra `index.html` em um navegador. Não é necessário instalar dependências.
+Este repositório ainda não contém uma versão funcional do JAS - Easy Path. O arquivo `index.html` é uma apresentação interna do Hack Brasil, não a aplicação de roteirização. Para visualizar essa apresentação, abra `index.html` em um navegador. Não é necessário instalar dependências.
